@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj": {}
+    "D:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "d:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj": {
+    "D:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "d:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj",
+        "projectPath": "D:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\sanman chavan\\.nuget\\packages\\",
-        "outputPath": "d:\\Study\\Microservice_Csharp\\PlatformService\\obj\\",
+        "outputPath": "D:\\Study\\Microservice_Csharp\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanman chavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
