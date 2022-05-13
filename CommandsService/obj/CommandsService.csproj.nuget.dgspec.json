@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj": {}
+    "D:\\Study\\Microservice_Csharp\\CommandsService\\CommandsService.csproj": {}
   },
   "projects": {
-    "d:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj": {
+    "D:\\Study\\Microservice_Csharp\\CommandsService\\CommandsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj",
-        "projectName": "PlatformService",
-        "projectPath": "d:\\Study\\Microservice_Csharp\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\Study\\Microservice_Csharp\\CommandsService\\CommandsService.csproj",
+        "projectName": "CommandsService",
+        "projectPath": "D:\\Study\\Microservice_Csharp\\CommandsService\\CommandsService.csproj",
         "packagesPath": "C:\\Users\\sanman chavan\\.nuget\\packages\\",
-        "outputPath": "d:\\Study\\Microservice_Csharp\\PlatformService\\obj\\",
+        "outputPath": "D:\\Study\\Microservice_Csharp\\CommandsService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanman chavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,23 +44,19 @@
               "target": "Package",
               "version": "[11.0.0, )"
             },
-            "Microsoft.EntityFrameWorkCore": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.5, )"
             },
-            "Microsoft.EntityFrameWorkCore.Design": {
+            "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.5, )"
             },
-            "Microsoft.EntityFrameWorkCore.InMemory": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[6.0.4, )"
-            },
-            "Microsoft.EntityFrameWorkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
