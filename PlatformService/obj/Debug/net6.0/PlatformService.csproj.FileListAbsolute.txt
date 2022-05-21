@@ -62,3 +62,4 @@ D:\Study\Microservice_Csharp\PlatformService\obj\Debug\net6.0\refint\PlatformSer
 D:\Study\Microservice_Csharp\PlatformService\obj\Debug\net6.0\PlatformService.pdb
 D:\Study\Microservice_Csharp\PlatformService\obj\Debug\net6.0\PlatformService.genruntimeconfig.cache
 D:\Study\Microservice_Csharp\PlatformService\obj\Debug\net6.0\ref\PlatformService.dll
+D:\Study\Microservice_Csharp\PlatformService\bin\Debug\net6.0\appsettings.Production.json
